@@ -1,0 +1,9 @@
+{
+	"name": "venkatast",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f71ecdb8-12fc-4ff2-8a32-fc3ced1529fe",
+		"tenantId": "7ea53cc3-d8f9-43f5-9392-cec3a77b7218"
+	}
+}
