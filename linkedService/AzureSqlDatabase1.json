@@ -6,7 +6,7 @@
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
 			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=venkatasrv.database.windows.net;initial catalog=venkatas;user id=venkata",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFCRkExRThELTY3MzYtNEUzMy04RTE2LUFGQThCODRBRDcxRV9lZGFhMWRmNi03ZDY5LTRiYzEtYTQ2My0wMjYwMWNjODc4YzQiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFCRkExRThELTY3MzYtNEUzMy04RTE2LUFGQThCODRBRDcxRV9kYWQ5Yzk1OC02NmIxLTQ3ZDEtYjEyNS04YjE4Mjg1NmM3NGUiDQp9"
 		}
 	}
 }
